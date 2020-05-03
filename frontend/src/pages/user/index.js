@@ -3,7 +3,6 @@ import Main from '../../components/main/Main';
 import axios from 'axios';
 
 const headerProps = {
-    icon: 'users',
     title: 'Usuários',
     subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
 }
@@ -112,7 +111,7 @@ export default class UserCrud extends Component {
 
     renderTable = () => {
         return (
-            <table className="table mt-4">
+            <table className="table table-bordered table-striped mt-4">
                 <thead>
                     <tr>
                         <th>Nome</th>
