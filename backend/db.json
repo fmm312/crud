@@ -2,23 +2,13 @@
   "users": [
     {
       "name": "Felipe",
-      "email": "fmm312@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "Fulano",
-      "email": "adsdasdiiiiiiiii",
-      "id": 4
-    },
-    {
-      "name": "Exemplo",
       "email": "felipe@gmail.com",
-      "id": 5
+      "id": 1
     },
     {
-      "name": "Exemplo 2131323",
-      "email": "aaaaaaaaaa",
-      "id": 7
+      "name": "Felipe Menezes",
+      "email": "123@gmail.com",
+      "id": 2
     }
   ]
 }
